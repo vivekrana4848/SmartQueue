@@ -1,0 +1,3278 @@
+{
+  "sectors": [
+    {
+      "id": "bank",
+      "name": "Bank",
+      "icon": "\ud83c\udfe6",
+      "color": "#6C63FF",
+      "order": 1,
+      "status": "active"
+    },
+    {
+      "id": "hospital",
+      "name": "Healthcare",
+      "icon": "\ud83c\udfe5",
+      "color": "#6C63FF",
+      "order": 2,
+      "status": "active"
+    },
+    {
+      "id": "restaurant",
+      "name": "Restaurant",
+      "icon": "\ud83c\udf7d",
+      "color": "#FF9800",
+      "order": 3,
+      "status": "active"
+    },
+    {
+      "id": "salon",
+      "name": "Salon",
+      "icon": "\ud83d\udc87",
+      "color": "#E91E63",
+      "order": 4,
+      "status": "active"
+    },
+    {
+      "id": "temple",
+      "name": "Temple",
+      "icon": "\ud83d\uded5",
+      "color": "#9C27B0",
+      "order": 5,
+      "status": "active"
+    },
+    {
+      "id": "government",
+      "name": "Government Office",
+      "icon": "\ud83c\udfe2",
+      "color": "#3F51B5",
+      "order": 6,
+      "status": "active"
+    }
+  ],
+  "branches": [
+    {
+      "id": "bank_branch_1",
+      "name": "Bank Branch 1",
+      "address": "Bank Branch 1",
+      "phone": null,
+      "sectorId": "bank",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_2",
+      "name": "Bank Branch 2",
+      "address": "Bank Branch 2",
+      "phone": null,
+      "sectorId": "bank",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_3",
+      "name": "Bank Branch 3",
+      "address": "Bank Branch 3",
+      "phone": null,
+      "sectorId": "bank",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_4",
+      "name": "Bank Branch 4",
+      "address": "Bank Branch 4",
+      "phone": null,
+      "sectorId": "bank",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_1",
+      "name": "Healthcare Branch 1",
+      "address": "Healthcare Branch 1",
+      "phone": null,
+      "sectorId": "hospital",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_2",
+      "name": "Healthcare Branch 2",
+      "address": "Healthcare Branch 2",
+      "phone": null,
+      "sectorId": "hospital",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_3",
+      "name": "Healthcare Branch 3",
+      "address": "Healthcare Branch 3",
+      "phone": null,
+      "sectorId": "hospital",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_4",
+      "name": "Healthcare Branch 4",
+      "address": "Healthcare Branch 4",
+      "phone": null,
+      "sectorId": "hospital",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_1",
+      "name": "Restaurant Branch 1",
+      "address": "Restaurant Branch 1",
+      "phone": null,
+      "sectorId": "restaurant",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_2",
+      "name": "Restaurant Branch 2",
+      "address": "Restaurant Branch 2",
+      "phone": null,
+      "sectorId": "restaurant",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_3",
+      "name": "Restaurant Branch 3",
+      "address": "Restaurant Branch 3",
+      "phone": null,
+      "sectorId": "restaurant",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_4",
+      "name": "Restaurant Branch 4",
+      "address": "Restaurant Branch 4",
+      "phone": null,
+      "sectorId": "restaurant",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_1",
+      "name": "Salon Branch 1",
+      "address": "Salon Branch 1",
+      "phone": null,
+      "sectorId": "salon",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_2",
+      "name": "Salon Branch 2",
+      "address": "Salon Branch 2",
+      "phone": null,
+      "sectorId": "salon",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_3",
+      "name": "Salon Branch 3",
+      "address": "Salon Branch 3",
+      "phone": null,
+      "sectorId": "salon",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_4",
+      "name": "Salon Branch 4",
+      "address": "Salon Branch 4",
+      "phone": null,
+      "sectorId": "salon",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_1",
+      "name": "Temple Branch 1",
+      "address": "Temple Branch 1",
+      "phone": null,
+      "sectorId": "temple",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_2",
+      "name": "Temple Branch 2",
+      "address": "Temple Branch 2",
+      "phone": null,
+      "sectorId": "temple",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_3",
+      "name": "Temple Branch 3",
+      "address": "Temple Branch 3",
+      "phone": null,
+      "sectorId": "temple",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_4",
+      "name": "Temple Branch 4",
+      "address": "Temple Branch 4",
+      "phone": null,
+      "sectorId": "temple",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_1",
+      "name": "Government Office Branch 1",
+      "address": "Government Office Branch 1",
+      "phone": null,
+      "sectorId": "government",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_2",
+      "name": "Government Office Branch 2",
+      "address": "Government Office Branch 2",
+      "phone": null,
+      "sectorId": "government",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_3",
+      "name": "Government Office Branch 3",
+      "address": "Government Office Branch 3",
+      "phone": null,
+      "sectorId": "government",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_4",
+      "name": "Government Office Branch 4",
+      "address": "Government Office Branch 4",
+      "phone": null,
+      "sectorId": "government",
+      "status": "active"
+    }
+  ],
+  "services": [
+    {
+      "id": "bank_branch_1_service_1",
+      "name": "Cash Deposit",
+      "sectorId": "bank",
+      "branchId": "bank_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_1_service_2",
+      "name": "Cash Withdrawal",
+      "sectorId": "bank",
+      "branchId": "bank_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_1_service_3",
+      "name": "Account Opening",
+      "sectorId": "bank",
+      "branchId": "bank_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_1_service_4",
+      "name": "Cheque Deposit",
+      "sectorId": "bank",
+      "branchId": "bank_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_1_service_5",
+      "name": "Passbook Update",
+      "sectorId": "bank",
+      "branchId": "bank_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_1_service_6",
+      "name": "ATM Card Issue",
+      "sectorId": "bank",
+      "branchId": "bank_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_1_service_7",
+      "name": "Loan Inquiry",
+      "sectorId": "bank",
+      "branchId": "bank_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_1_service_8",
+      "name": "Net Banking Help",
+      "sectorId": "bank",
+      "branchId": "bank_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_1_service_9",
+      "name": "KYC Update",
+      "sectorId": "bank",
+      "branchId": "bank_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_1_service_10",
+      "name": "Fixed Deposit",
+      "sectorId": "bank",
+      "branchId": "bank_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_2_service_1",
+      "name": "Cash Deposit",
+      "sectorId": "bank",
+      "branchId": "bank_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_2_service_2",
+      "name": "Cash Withdrawal",
+      "sectorId": "bank",
+      "branchId": "bank_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_2_service_3",
+      "name": "Account Opening",
+      "sectorId": "bank",
+      "branchId": "bank_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_2_service_4",
+      "name": "Cheque Deposit",
+      "sectorId": "bank",
+      "branchId": "bank_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_2_service_5",
+      "name": "Passbook Update",
+      "sectorId": "bank",
+      "branchId": "bank_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_2_service_6",
+      "name": "ATM Card Issue",
+      "sectorId": "bank",
+      "branchId": "bank_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_2_service_7",
+      "name": "Loan Inquiry",
+      "sectorId": "bank",
+      "branchId": "bank_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_2_service_8",
+      "name": "Net Banking Help",
+      "sectorId": "bank",
+      "branchId": "bank_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_2_service_9",
+      "name": "KYC Update",
+      "sectorId": "bank",
+      "branchId": "bank_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_2_service_10",
+      "name": "Fixed Deposit",
+      "sectorId": "bank",
+      "branchId": "bank_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_3_service_1",
+      "name": "Cash Deposit",
+      "sectorId": "bank",
+      "branchId": "bank_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_3_service_2",
+      "name": "Cash Withdrawal",
+      "sectorId": "bank",
+      "branchId": "bank_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_3_service_3",
+      "name": "Account Opening",
+      "sectorId": "bank",
+      "branchId": "bank_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_3_service_4",
+      "name": "Cheque Deposit",
+      "sectorId": "bank",
+      "branchId": "bank_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_3_service_5",
+      "name": "Passbook Update",
+      "sectorId": "bank",
+      "branchId": "bank_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_3_service_6",
+      "name": "ATM Card Issue",
+      "sectorId": "bank",
+      "branchId": "bank_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_3_service_7",
+      "name": "Loan Inquiry",
+      "sectorId": "bank",
+      "branchId": "bank_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_3_service_8",
+      "name": "Net Banking Help",
+      "sectorId": "bank",
+      "branchId": "bank_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_3_service_9",
+      "name": "KYC Update",
+      "sectorId": "bank",
+      "branchId": "bank_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_3_service_10",
+      "name": "Fixed Deposit",
+      "sectorId": "bank",
+      "branchId": "bank_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_4_service_1",
+      "name": "Cash Deposit",
+      "sectorId": "bank",
+      "branchId": "bank_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_4_service_2",
+      "name": "Cash Withdrawal",
+      "sectorId": "bank",
+      "branchId": "bank_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_4_service_3",
+      "name": "Account Opening",
+      "sectorId": "bank",
+      "branchId": "bank_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_4_service_4",
+      "name": "Cheque Deposit",
+      "sectorId": "bank",
+      "branchId": "bank_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_4_service_5",
+      "name": "Passbook Update",
+      "sectorId": "bank",
+      "branchId": "bank_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_4_service_6",
+      "name": "ATM Card Issue",
+      "sectorId": "bank",
+      "branchId": "bank_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_4_service_7",
+      "name": "Loan Inquiry",
+      "sectorId": "bank",
+      "branchId": "bank_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_4_service_8",
+      "name": "Net Banking Help",
+      "sectorId": "bank",
+      "branchId": "bank_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_4_service_9",
+      "name": "KYC Update",
+      "sectorId": "bank",
+      "branchId": "bank_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_4_service_10",
+      "name": "Fixed Deposit",
+      "sectorId": "bank",
+      "branchId": "bank_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_1_service_1",
+      "name": "Doctor Consultation",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_1_service_2",
+      "name": "Lab Test",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_1_service_3",
+      "name": "X-Ray",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_1_service_4",
+      "name": "MRI Scan",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_1_service_5",
+      "name": "Billing",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_1_service_6",
+      "name": "Medicine Pickup",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_1_service_7",
+      "name": "Emergency",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_1_service_8",
+      "name": "Health Checkup",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_1_service_9",
+      "name": "Report Collection",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_1_service_10",
+      "name": "Surgery Advice",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_2_service_1",
+      "name": "Doctor Consultation",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_2_service_2",
+      "name": "Lab Test",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_2_service_3",
+      "name": "X-Ray",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_2_service_4",
+      "name": "MRI Scan",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_2_service_5",
+      "name": "Billing",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_2_service_6",
+      "name": "Medicine Pickup",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_2_service_7",
+      "name": "Emergency",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_2_service_8",
+      "name": "Health Checkup",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_2_service_9",
+      "name": "Report Collection",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_2_service_10",
+      "name": "Surgery Advice",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_3_service_1",
+      "name": "Doctor Consultation",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_3_service_2",
+      "name": "Lab Test",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_3_service_3",
+      "name": "X-Ray",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_3_service_4",
+      "name": "MRI Scan",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_3_service_5",
+      "name": "Billing",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_3_service_6",
+      "name": "Medicine Pickup",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_3_service_7",
+      "name": "Emergency",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_3_service_8",
+      "name": "Health Checkup",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_3_service_9",
+      "name": "Report Collection",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_3_service_10",
+      "name": "Surgery Advice",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_4_service_1",
+      "name": "Doctor Consultation",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_4_service_2",
+      "name": "Lab Test",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_4_service_3",
+      "name": "X-Ray",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_4_service_4",
+      "name": "MRI Scan",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_4_service_5",
+      "name": "Billing",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_4_service_6",
+      "name": "Medicine Pickup",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_4_service_7",
+      "name": "Emergency",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_4_service_8",
+      "name": "Health Checkup",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_4_service_9",
+      "name": "Report Collection",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_4_service_10",
+      "name": "Surgery Advice",
+      "sectorId": "hospital",
+      "branchId": "hospital_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_1_service_1",
+      "name": "Table Reservation",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_1_service_2",
+      "name": "Buffet Entry",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_1_service_3",
+      "name": "Billing",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_1_service_4",
+      "name": "Food Pickup",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_1_service_5",
+      "name": "Takeaway Order",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_1_service_6",
+      "name": "Online Order Support",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_1_service_7",
+      "name": "Delivery Pickup",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_1_service_8",
+      "name": "Chef Special",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_1_service_9",
+      "name": "Food Complaint",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_1_service_10",
+      "name": "Dine In Order",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_2_service_1",
+      "name": "Table Reservation",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_2_service_2",
+      "name": "Buffet Entry",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_2_service_3",
+      "name": "Billing",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_2_service_4",
+      "name": "Food Pickup",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_2_service_5",
+      "name": "Takeaway Order",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_2_service_6",
+      "name": "Online Order Support",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_2_service_7",
+      "name": "Delivery Pickup",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_2_service_8",
+      "name": "Chef Special",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_2_service_9",
+      "name": "Food Complaint",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_2_service_10",
+      "name": "Dine In Order",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_3_service_1",
+      "name": "Table Reservation",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_3_service_2",
+      "name": "Buffet Entry",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_3_service_3",
+      "name": "Billing",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_3_service_4",
+      "name": "Food Pickup",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_3_service_5",
+      "name": "Takeaway Order",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_3_service_6",
+      "name": "Online Order Support",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_3_service_7",
+      "name": "Delivery Pickup",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_3_service_8",
+      "name": "Chef Special",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_3_service_9",
+      "name": "Food Complaint",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_3_service_10",
+      "name": "Dine In Order",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_4_service_1",
+      "name": "Table Reservation",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_4_service_2",
+      "name": "Buffet Entry",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_4_service_3",
+      "name": "Billing",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_4_service_4",
+      "name": "Food Pickup",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_4_service_5",
+      "name": "Takeaway Order",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_4_service_6",
+      "name": "Online Order Support",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_4_service_7",
+      "name": "Delivery Pickup",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_4_service_8",
+      "name": "Chef Special",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_4_service_9",
+      "name": "Food Complaint",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_4_service_10",
+      "name": "Dine In Order",
+      "sectorId": "restaurant",
+      "branchId": "restaurant_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_1_service_1",
+      "name": "Haircut",
+      "sectorId": "salon",
+      "branchId": "salon_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_1_service_2",
+      "name": "Hair Spa",
+      "sectorId": "salon",
+      "branchId": "salon_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_1_service_3",
+      "name": "Hair Coloring",
+      "sectorId": "salon",
+      "branchId": "salon_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_1_service_4",
+      "name": "Facial",
+      "sectorId": "salon",
+      "branchId": "salon_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_1_service_5",
+      "name": "Head Massage",
+      "sectorId": "salon",
+      "branchId": "salon_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_1_service_6",
+      "name": "Skin Treatment",
+      "sectorId": "salon",
+      "branchId": "salon_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_1_service_7",
+      "name": "Makeup",
+      "sectorId": "salon",
+      "branchId": "salon_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_1_service_8",
+      "name": "Bridal Package",
+      "sectorId": "salon",
+      "branchId": "salon_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_1_service_9",
+      "name": "Beard Trim",
+      "sectorId": "salon",
+      "branchId": "salon_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_1_service_10",
+      "name": "Hair Styling",
+      "sectorId": "salon",
+      "branchId": "salon_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_2_service_1",
+      "name": "Haircut",
+      "sectorId": "salon",
+      "branchId": "salon_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_2_service_2",
+      "name": "Hair Spa",
+      "sectorId": "salon",
+      "branchId": "salon_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_2_service_3",
+      "name": "Hair Coloring",
+      "sectorId": "salon",
+      "branchId": "salon_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_2_service_4",
+      "name": "Facial",
+      "sectorId": "salon",
+      "branchId": "salon_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_2_service_5",
+      "name": "Head Massage",
+      "sectorId": "salon",
+      "branchId": "salon_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_2_service_6",
+      "name": "Skin Treatment",
+      "sectorId": "salon",
+      "branchId": "salon_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_2_service_7",
+      "name": "Makeup",
+      "sectorId": "salon",
+      "branchId": "salon_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_2_service_8",
+      "name": "Bridal Package",
+      "sectorId": "salon",
+      "branchId": "salon_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_2_service_9",
+      "name": "Beard Trim",
+      "sectorId": "salon",
+      "branchId": "salon_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_2_service_10",
+      "name": "Hair Styling",
+      "sectorId": "salon",
+      "branchId": "salon_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_3_service_1",
+      "name": "Haircut",
+      "sectorId": "salon",
+      "branchId": "salon_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_3_service_2",
+      "name": "Hair Spa",
+      "sectorId": "salon",
+      "branchId": "salon_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_3_service_3",
+      "name": "Hair Coloring",
+      "sectorId": "salon",
+      "branchId": "salon_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_3_service_4",
+      "name": "Facial",
+      "sectorId": "salon",
+      "branchId": "salon_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_3_service_5",
+      "name": "Head Massage",
+      "sectorId": "salon",
+      "branchId": "salon_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_3_service_6",
+      "name": "Skin Treatment",
+      "sectorId": "salon",
+      "branchId": "salon_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_3_service_7",
+      "name": "Makeup",
+      "sectorId": "salon",
+      "branchId": "salon_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_3_service_8",
+      "name": "Bridal Package",
+      "sectorId": "salon",
+      "branchId": "salon_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_3_service_9",
+      "name": "Beard Trim",
+      "sectorId": "salon",
+      "branchId": "salon_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_3_service_10",
+      "name": "Hair Styling",
+      "sectorId": "salon",
+      "branchId": "salon_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_4_service_1",
+      "name": "Haircut",
+      "sectorId": "salon",
+      "branchId": "salon_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_4_service_2",
+      "name": "Hair Spa",
+      "sectorId": "salon",
+      "branchId": "salon_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_4_service_3",
+      "name": "Hair Coloring",
+      "sectorId": "salon",
+      "branchId": "salon_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_4_service_4",
+      "name": "Facial",
+      "sectorId": "salon",
+      "branchId": "salon_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_4_service_5",
+      "name": "Head Massage",
+      "sectorId": "salon",
+      "branchId": "salon_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_4_service_6",
+      "name": "Skin Treatment",
+      "sectorId": "salon",
+      "branchId": "salon_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_4_service_7",
+      "name": "Makeup",
+      "sectorId": "salon",
+      "branchId": "salon_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_4_service_8",
+      "name": "Bridal Package",
+      "sectorId": "salon",
+      "branchId": "salon_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_4_service_9",
+      "name": "Beard Trim",
+      "sectorId": "salon",
+      "branchId": "salon_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_4_service_10",
+      "name": "Hair Styling",
+      "sectorId": "salon",
+      "branchId": "salon_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_1_service_1",
+      "name": "Darshan",
+      "sectorId": "temple",
+      "branchId": "temple_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_1_service_2",
+      "name": "VIP Darshan",
+      "sectorId": "temple",
+      "branchId": "temple_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_1_service_3",
+      "name": "Prasad Collection",
+      "sectorId": "temple",
+      "branchId": "temple_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_1_service_4",
+      "name": "Pooja Booking",
+      "sectorId": "temple",
+      "branchId": "temple_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_1_service_5",
+      "name": "Donation",
+      "sectorId": "temple",
+      "branchId": "temple_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_1_service_6",
+      "name": "Temple Enquiry",
+      "sectorId": "temple",
+      "branchId": "temple_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_1_service_7",
+      "name": "Festival Darshan",
+      "sectorId": "temple",
+      "branchId": "temple_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_1_service_8",
+      "name": "Religious Event Entry",
+      "sectorId": "temple",
+      "branchId": "temple_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_1_service_9",
+      "name": "Special Aarti",
+      "sectorId": "temple",
+      "branchId": "temple_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_1_service_10",
+      "name": "VIP Donation",
+      "sectorId": "temple",
+      "branchId": "temple_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_2_service_1",
+      "name": "Darshan",
+      "sectorId": "temple",
+      "branchId": "temple_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_2_service_2",
+      "name": "VIP Darshan",
+      "sectorId": "temple",
+      "branchId": "temple_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_2_service_3",
+      "name": "Prasad Collection",
+      "sectorId": "temple",
+      "branchId": "temple_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_2_service_4",
+      "name": "Pooja Booking",
+      "sectorId": "temple",
+      "branchId": "temple_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_2_service_5",
+      "name": "Donation",
+      "sectorId": "temple",
+      "branchId": "temple_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_2_service_6",
+      "name": "Temple Enquiry",
+      "sectorId": "temple",
+      "branchId": "temple_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_2_service_7",
+      "name": "Festival Darshan",
+      "sectorId": "temple",
+      "branchId": "temple_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_2_service_8",
+      "name": "Religious Event Entry",
+      "sectorId": "temple",
+      "branchId": "temple_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_2_service_9",
+      "name": "Special Aarti",
+      "sectorId": "temple",
+      "branchId": "temple_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_2_service_10",
+      "name": "VIP Donation",
+      "sectorId": "temple",
+      "branchId": "temple_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_3_service_1",
+      "name": "Darshan",
+      "sectorId": "temple",
+      "branchId": "temple_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_3_service_2",
+      "name": "VIP Darshan",
+      "sectorId": "temple",
+      "branchId": "temple_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_3_service_3",
+      "name": "Prasad Collection",
+      "sectorId": "temple",
+      "branchId": "temple_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_3_service_4",
+      "name": "Pooja Booking",
+      "sectorId": "temple",
+      "branchId": "temple_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_3_service_5",
+      "name": "Donation",
+      "sectorId": "temple",
+      "branchId": "temple_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_3_service_6",
+      "name": "Temple Enquiry",
+      "sectorId": "temple",
+      "branchId": "temple_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_3_service_7",
+      "name": "Festival Darshan",
+      "sectorId": "temple",
+      "branchId": "temple_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_3_service_8",
+      "name": "Religious Event Entry",
+      "sectorId": "temple",
+      "branchId": "temple_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_3_service_9",
+      "name": "Special Aarti",
+      "sectorId": "temple",
+      "branchId": "temple_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_3_service_10",
+      "name": "VIP Donation",
+      "sectorId": "temple",
+      "branchId": "temple_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_4_service_1",
+      "name": "Darshan",
+      "sectorId": "temple",
+      "branchId": "temple_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_4_service_2",
+      "name": "VIP Darshan",
+      "sectorId": "temple",
+      "branchId": "temple_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_4_service_3",
+      "name": "Prasad Collection",
+      "sectorId": "temple",
+      "branchId": "temple_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_4_service_4",
+      "name": "Pooja Booking",
+      "sectorId": "temple",
+      "branchId": "temple_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_4_service_5",
+      "name": "Donation",
+      "sectorId": "temple",
+      "branchId": "temple_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_4_service_6",
+      "name": "Temple Enquiry",
+      "sectorId": "temple",
+      "branchId": "temple_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_4_service_7",
+      "name": "Festival Darshan",
+      "sectorId": "temple",
+      "branchId": "temple_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_4_service_8",
+      "name": "Religious Event Entry",
+      "sectorId": "temple",
+      "branchId": "temple_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_4_service_9",
+      "name": "Special Aarti",
+      "sectorId": "temple",
+      "branchId": "temple_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_4_service_10",
+      "name": "VIP Donation",
+      "sectorId": "temple",
+      "branchId": "temple_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_1_service_1",
+      "name": "Passport Application",
+      "sectorId": "government",
+      "branchId": "government_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_1_service_2",
+      "name": "Document Verification",
+      "sectorId": "government",
+      "branchId": "government_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_1_service_3",
+      "name": "Police Verification",
+      "sectorId": "government",
+      "branchId": "government_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_1_service_4",
+      "name": "Application Submission",
+      "sectorId": "government",
+      "branchId": "government_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_1_service_5",
+      "name": "Application Status",
+      "sectorId": "government",
+      "branchId": "government_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_1_service_6",
+      "name": "Biometric",
+      "sectorId": "government",
+      "branchId": "government_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_1_service_7",
+      "name": "Token Issue",
+      "sectorId": "government",
+      "branchId": "government_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_1_service_8",
+      "name": "Complaint",
+      "sectorId": "government",
+      "branchId": "government_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_1_service_9",
+      "name": "Information Desk",
+      "sectorId": "government",
+      "branchId": "government_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_1_service_10",
+      "name": "Renew Passport",
+      "sectorId": "government",
+      "branchId": "government_branch_1",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_2_service_1",
+      "name": "Passport Application",
+      "sectorId": "government",
+      "branchId": "government_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_2_service_2",
+      "name": "Document Verification",
+      "sectorId": "government",
+      "branchId": "government_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_2_service_3",
+      "name": "Police Verification",
+      "sectorId": "government",
+      "branchId": "government_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_2_service_4",
+      "name": "Application Submission",
+      "sectorId": "government",
+      "branchId": "government_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_2_service_5",
+      "name": "Application Status",
+      "sectorId": "government",
+      "branchId": "government_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_2_service_6",
+      "name": "Biometric",
+      "sectorId": "government",
+      "branchId": "government_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_2_service_7",
+      "name": "Token Issue",
+      "sectorId": "government",
+      "branchId": "government_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_2_service_8",
+      "name": "Complaint",
+      "sectorId": "government",
+      "branchId": "government_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_2_service_9",
+      "name": "Information Desk",
+      "sectorId": "government",
+      "branchId": "government_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_2_service_10",
+      "name": "Renew Passport",
+      "sectorId": "government",
+      "branchId": "government_branch_2",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_3_service_1",
+      "name": "Passport Application",
+      "sectorId": "government",
+      "branchId": "government_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_3_service_2",
+      "name": "Document Verification",
+      "sectorId": "government",
+      "branchId": "government_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_3_service_3",
+      "name": "Police Verification",
+      "sectorId": "government",
+      "branchId": "government_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_3_service_4",
+      "name": "Application Submission",
+      "sectorId": "government",
+      "branchId": "government_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_3_service_5",
+      "name": "Application Status",
+      "sectorId": "government",
+      "branchId": "government_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_3_service_6",
+      "name": "Biometric",
+      "sectorId": "government",
+      "branchId": "government_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_3_service_7",
+      "name": "Token Issue",
+      "sectorId": "government",
+      "branchId": "government_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_3_service_8",
+      "name": "Complaint",
+      "sectorId": "government",
+      "branchId": "government_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_3_service_9",
+      "name": "Information Desk",
+      "sectorId": "government",
+      "branchId": "government_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_3_service_10",
+      "name": "Renew Passport",
+      "sectorId": "government",
+      "branchId": "government_branch_3",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_4_service_1",
+      "name": "Passport Application",
+      "sectorId": "government",
+      "branchId": "government_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_4_service_2",
+      "name": "Document Verification",
+      "sectorId": "government",
+      "branchId": "government_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_4_service_3",
+      "name": "Police Verification",
+      "sectorId": "government",
+      "branchId": "government_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_4_service_4",
+      "name": "Application Submission",
+      "sectorId": "government",
+      "branchId": "government_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_4_service_5",
+      "name": "Application Status",
+      "sectorId": "government",
+      "branchId": "government_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_4_service_6",
+      "name": "Biometric",
+      "sectorId": "government",
+      "branchId": "government_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_4_service_7",
+      "name": "Token Issue",
+      "sectorId": "government",
+      "branchId": "government_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_4_service_8",
+      "name": "Complaint",
+      "sectorId": "government",
+      "branchId": "government_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_4_service_9",
+      "name": "Information Desk",
+      "sectorId": "government",
+      "branchId": "government_branch_4",
+      "status": "active"
+    },
+    {
+      "id": "government_branch_4_service_10",
+      "name": "Renew Passport",
+      "sectorId": "government",
+      "branchId": "government_branch_4",
+      "status": "active"
+    }
+  ],
+  "counters": [
+    {
+      "id": "bank_branch_1_counter_1",
+      "name": "Counter 1 - Bank Branch 1",
+      "branchId": "bank_branch_1",
+      "serviceIds": [
+        "bank_branch_1_service_1",
+        "bank_branch_1_service_2",
+        "bank_branch_1_service_3",
+        "bank_branch_1_service_4",
+        "bank_branch_1_service_5"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_1_counter_2",
+      "name": "Counter 2 - Bank Branch 1",
+      "branchId": "bank_branch_1",
+      "serviceIds": [
+        "bank_branch_1_service_6",
+        "bank_branch_1_service_7",
+        "bank_branch_1_service_8",
+        "bank_branch_1_service_9",
+        "bank_branch_1_service_10"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_2_counter_1",
+      "name": "Counter 1 - Bank Branch 2",
+      "branchId": "bank_branch_2",
+      "serviceIds": [
+        "bank_branch_2_service_1",
+        "bank_branch_2_service_2",
+        "bank_branch_2_service_3",
+        "bank_branch_2_service_4",
+        "bank_branch_2_service_5"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_2_counter_2",
+      "name": "Counter 2 - Bank Branch 2",
+      "branchId": "bank_branch_2",
+      "serviceIds": [
+        "bank_branch_2_service_6",
+        "bank_branch_2_service_7",
+        "bank_branch_2_service_8",
+        "bank_branch_2_service_9",
+        "bank_branch_2_service_10"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_3_counter_1",
+      "name": "Counter 1 - Bank Branch 3",
+      "branchId": "bank_branch_3",
+      "serviceIds": [
+        "bank_branch_3_service_1",
+        "bank_branch_3_service_2",
+        "bank_branch_3_service_3",
+        "bank_branch_3_service_4",
+        "bank_branch_3_service_5"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_3_counter_2",
+      "name": "Counter 2 - Bank Branch 3",
+      "branchId": "bank_branch_3",
+      "serviceIds": [
+        "bank_branch_3_service_6",
+        "bank_branch_3_service_7",
+        "bank_branch_3_service_8",
+        "bank_branch_3_service_9",
+        "bank_branch_3_service_10"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_4_counter_1",
+      "name": "Counter 1 - Bank Branch 4",
+      "branchId": "bank_branch_4",
+      "serviceIds": [
+        "bank_branch_4_service_1",
+        "bank_branch_4_service_2",
+        "bank_branch_4_service_3",
+        "bank_branch_4_service_4",
+        "bank_branch_4_service_5"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "bank_branch_4_counter_2",
+      "name": "Counter 2 - Bank Branch 4",
+      "branchId": "bank_branch_4",
+      "serviceIds": [
+        "bank_branch_4_service_6",
+        "bank_branch_4_service_7",
+        "bank_branch_4_service_8",
+        "bank_branch_4_service_9",
+        "bank_branch_4_service_10"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_1_counter_1",
+      "name": "Counter 1 - Healthcare Branch 1",
+      "branchId": "hospital_branch_1",
+      "serviceIds": [
+        "hospital_branch_1_service_1",
+        "hospital_branch_1_service_2",
+        "hospital_branch_1_service_3",
+        "hospital_branch_1_service_4",
+        "hospital_branch_1_service_5"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_1_counter_2",
+      "name": "Counter 2 - Healthcare Branch 1",
+      "branchId": "hospital_branch_1",
+      "serviceIds": [
+        "hospital_branch_1_service_6",
+        "hospital_branch_1_service_7",
+        "hospital_branch_1_service_8",
+        "hospital_branch_1_service_9",
+        "hospital_branch_1_service_10"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_2_counter_1",
+      "name": "Counter 1 - Healthcare Branch 2",
+      "branchId": "hospital_branch_2",
+      "serviceIds": [
+        "hospital_branch_2_service_1",
+        "hospital_branch_2_service_2",
+        "hospital_branch_2_service_3",
+        "hospital_branch_2_service_4",
+        "hospital_branch_2_service_5"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_2_counter_2",
+      "name": "Counter 2 - Healthcare Branch 2",
+      "branchId": "hospital_branch_2",
+      "serviceIds": [
+        "hospital_branch_2_service_6",
+        "hospital_branch_2_service_7",
+        "hospital_branch_2_service_8",
+        "hospital_branch_2_service_9",
+        "hospital_branch_2_service_10"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_3_counter_1",
+      "name": "Counter 1 - Healthcare Branch 3",
+      "branchId": "hospital_branch_3",
+      "serviceIds": [
+        "hospital_branch_3_service_1",
+        "hospital_branch_3_service_2",
+        "hospital_branch_3_service_3",
+        "hospital_branch_3_service_4",
+        "hospital_branch_3_service_5"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_3_counter_2",
+      "name": "Counter 2 - Healthcare Branch 3",
+      "branchId": "hospital_branch_3",
+      "serviceIds": [
+        "hospital_branch_3_service_6",
+        "hospital_branch_3_service_7",
+        "hospital_branch_3_service_8",
+        "hospital_branch_3_service_9",
+        "hospital_branch_3_service_10"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_4_counter_1",
+      "name": "Counter 1 - Healthcare Branch 4",
+      "branchId": "hospital_branch_4",
+      "serviceIds": [
+        "hospital_branch_4_service_1",
+        "hospital_branch_4_service_2",
+        "hospital_branch_4_service_3",
+        "hospital_branch_4_service_4",
+        "hospital_branch_4_service_5"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "hospital_branch_4_counter_2",
+      "name": "Counter 2 - Healthcare Branch 4",
+      "branchId": "hospital_branch_4",
+      "serviceIds": [
+        "hospital_branch_4_service_6",
+        "hospital_branch_4_service_7",
+        "hospital_branch_4_service_8",
+        "hospital_branch_4_service_9",
+        "hospital_branch_4_service_10"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_1_counter_1",
+      "name": "Counter 1 - Restaurant Branch 1",
+      "branchId": "restaurant_branch_1",
+      "serviceIds": [
+        "restaurant_branch_1_service_1",
+        "restaurant_branch_1_service_2",
+        "restaurant_branch_1_service_3",
+        "restaurant_branch_1_service_4",
+        "restaurant_branch_1_service_5"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_1_counter_2",
+      "name": "Counter 2 - Restaurant Branch 1",
+      "branchId": "restaurant_branch_1",
+      "serviceIds": [
+        "restaurant_branch_1_service_6",
+        "restaurant_branch_1_service_7",
+        "restaurant_branch_1_service_8",
+        "restaurant_branch_1_service_9",
+        "restaurant_branch_1_service_10"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_2_counter_1",
+      "name": "Counter 1 - Restaurant Branch 2",
+      "branchId": "restaurant_branch_2",
+      "serviceIds": [
+        "restaurant_branch_2_service_1",
+        "restaurant_branch_2_service_2",
+        "restaurant_branch_2_service_3",
+        "restaurant_branch_2_service_4",
+        "restaurant_branch_2_service_5"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_2_counter_2",
+      "name": "Counter 2 - Restaurant Branch 2",
+      "branchId": "restaurant_branch_2",
+      "serviceIds": [
+        "restaurant_branch_2_service_6",
+        "restaurant_branch_2_service_7",
+        "restaurant_branch_2_service_8",
+        "restaurant_branch_2_service_9",
+        "restaurant_branch_2_service_10"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_3_counter_1",
+      "name": "Counter 1 - Restaurant Branch 3",
+      "branchId": "restaurant_branch_3",
+      "serviceIds": [
+        "restaurant_branch_3_service_1",
+        "restaurant_branch_3_service_2",
+        "restaurant_branch_3_service_3",
+        "restaurant_branch_3_service_4",
+        "restaurant_branch_3_service_5"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_3_counter_2",
+      "name": "Counter 2 - Restaurant Branch 3",
+      "branchId": "restaurant_branch_3",
+      "serviceIds": [
+        "restaurant_branch_3_service_6",
+        "restaurant_branch_3_service_7",
+        "restaurant_branch_3_service_8",
+        "restaurant_branch_3_service_9",
+        "restaurant_branch_3_service_10"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_4_counter_1",
+      "name": "Counter 1 - Restaurant Branch 4",
+      "branchId": "restaurant_branch_4",
+      "serviceIds": [
+        "restaurant_branch_4_service_1",
+        "restaurant_branch_4_service_2",
+        "restaurant_branch_4_service_3",
+        "restaurant_branch_4_service_4",
+        "restaurant_branch_4_service_5"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "restaurant_branch_4_counter_2",
+      "name": "Counter 2 - Restaurant Branch 4",
+      "branchId": "restaurant_branch_4",
+      "serviceIds": [
+        "restaurant_branch_4_service_6",
+        "restaurant_branch_4_service_7",
+        "restaurant_branch_4_service_8",
+        "restaurant_branch_4_service_9",
+        "restaurant_branch_4_service_10"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_1_counter_1",
+      "name": "Counter 1 - Salon Branch 1",
+      "branchId": "salon_branch_1",
+      "serviceIds": [
+        "salon_branch_1_service_1",
+        "salon_branch_1_service_2",
+        "salon_branch_1_service_3",
+        "salon_branch_1_service_4",
+        "salon_branch_1_service_5"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_1_counter_2",
+      "name": "Counter 2 - Salon Branch 1",
+      "branchId": "salon_branch_1",
+      "serviceIds": [
+        "salon_branch_1_service_6",
+        "salon_branch_1_service_7",
+        "salon_branch_1_service_8",
+        "salon_branch_1_service_9",
+        "salon_branch_1_service_10"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_2_counter_1",
+      "name": "Counter 1 - Salon Branch 2",
+      "branchId": "salon_branch_2",
+      "serviceIds": [
+        "salon_branch_2_service_1",
+        "salon_branch_2_service_2",
+        "salon_branch_2_service_3",
+        "salon_branch_2_service_4",
+        "salon_branch_2_service_5"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_2_counter_2",
+      "name": "Counter 2 - Salon Branch 2",
+      "branchId": "salon_branch_2",
+      "serviceIds": [
+        "salon_branch_2_service_6",
+        "salon_branch_2_service_7",
+        "salon_branch_2_service_8",
+        "salon_branch_2_service_9",
+        "salon_branch_2_service_10"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_3_counter_1",
+      "name": "Counter 1 - Salon Branch 3",
+      "branchId": "salon_branch_3",
+      "serviceIds": [
+        "salon_branch_3_service_1",
+        "salon_branch_3_service_2",
+        "salon_branch_3_service_3",
+        "salon_branch_3_service_4",
+        "salon_branch_3_service_5"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_3_counter_2",
+      "name": "Counter 2 - Salon Branch 3",
+      "branchId": "salon_branch_3",
+      "serviceIds": [
+        "salon_branch_3_service_6",
+        "salon_branch_3_service_7",
+        "salon_branch_3_service_8",
+        "salon_branch_3_service_9",
+        "salon_branch_3_service_10"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_4_counter_1",
+      "name": "Counter 1 - Salon Branch 4",
+      "branchId": "salon_branch_4",
+      "serviceIds": [
+        "salon_branch_4_service_1",
+        "salon_branch_4_service_2",
+        "salon_branch_4_service_3",
+        "salon_branch_4_service_4",
+        "salon_branch_4_service_5"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "salon_branch_4_counter_2",
+      "name": "Counter 2 - Salon Branch 4",
+      "branchId": "salon_branch_4",
+      "serviceIds": [
+        "salon_branch_4_service_6",
+        "salon_branch_4_service_7",
+        "salon_branch_4_service_8",
+        "salon_branch_4_service_9",
+        "salon_branch_4_service_10"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_1_counter_1",
+      "name": "Counter 1 - Temple Branch 1",
+      "branchId": "temple_branch_1",
+      "serviceIds": [
+        "temple_branch_1_service_1",
+        "temple_branch_1_service_2",
+        "temple_branch_1_service_3",
+        "temple_branch_1_service_4",
+        "temple_branch_1_service_5"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_1_counter_2",
+      "name": "Counter 2 - Temple Branch 1",
+      "branchId": "temple_branch_1",
+      "serviceIds": [
+        "temple_branch_1_service_6",
+        "temple_branch_1_service_7",
+        "temple_branch_1_service_8",
+        "temple_branch_1_service_9",
+        "temple_branch_1_service_10"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_2_counter_1",
+      "name": "Counter 1 - Temple Branch 2",
+      "branchId": "temple_branch_2",
+      "serviceIds": [
+        "temple_branch_2_service_1",
+        "temple_branch_2_service_2",
+        "temple_branch_2_service_3",
+        "temple_branch_2_service_4",
+        "temple_branch_2_service_5"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_2_counter_2",
+      "name": "Counter 2 - Temple Branch 2",
+      "branchId": "temple_branch_2",
+      "serviceIds": [
+        "temple_branch_2_service_6",
+        "temple_branch_2_service_7",
+        "temple_branch_2_service_8",
+        "temple_branch_2_service_9",
+        "temple_branch_2_service_10"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_3_counter_1",
+      "name": "Counter 1 - Temple Branch 3",
+      "branchId": "temple_branch_3",
+      "serviceIds": [
+        "temple_branch_3_service_1",
+        "temple_branch_3_service_2",
+        "temple_branch_3_service_3",
+        "temple_branch_3_service_4",
+        "temple_branch_3_service_5"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_3_counter_2",
+      "name": "Counter 2 - Temple Branch 3",
+      "branchId": "temple_branch_3",
+      "serviceIds": [
+        "temple_branch_3_service_6",
+        "temple_branch_3_service_7",
+        "temple_branch_3_service_8",
+        "temple_branch_3_service_9",
+        "temple_branch_3_service_10"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_4_counter_1",
+      "name": "Counter 1 - Temple Branch 4",
+      "branchId": "temple_branch_4",
+      "serviceIds": [
+        "temple_branch_4_service_1",
+        "temple_branch_4_service_2",
+        "temple_branch_4_service_3",
+        "temple_branch_4_service_4",
+        "temple_branch_4_service_5"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "temple_branch_4_counter_2",
+      "name": "Counter 2 - Temple Branch 4",
+      "branchId": "temple_branch_4",
+      "serviceIds": [
+        "temple_branch_4_service_6",
+        "temple_branch_4_service_7",
+        "temple_branch_4_service_8",
+        "temple_branch_4_service_9",
+        "temple_branch_4_service_10"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "government_branch_1_counter_1",
+      "name": "Counter 1 - Government Office Branch 1",
+      "branchId": "government_branch_1",
+      "serviceIds": [
+        "government_branch_1_service_1",
+        "government_branch_1_service_2",
+        "government_branch_1_service_3",
+        "government_branch_1_service_4",
+        "government_branch_1_service_5"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "government_branch_1_counter_2",
+      "name": "Counter 2 - Government Office Branch 1",
+      "branchId": "government_branch_1",
+      "serviceIds": [
+        "government_branch_1_service_6",
+        "government_branch_1_service_7",
+        "government_branch_1_service_8",
+        "government_branch_1_service_9",
+        "government_branch_1_service_10"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "government_branch_2_counter_1",
+      "name": "Counter 1 - Government Office Branch 2",
+      "branchId": "government_branch_2",
+      "serviceIds": [
+        "government_branch_2_service_1",
+        "government_branch_2_service_2",
+        "government_branch_2_service_3",
+        "government_branch_2_service_4",
+        "government_branch_2_service_5"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "government_branch_2_counter_2",
+      "name": "Counter 2 - Government Office Branch 2",
+      "branchId": "government_branch_2",
+      "serviceIds": [
+        "government_branch_2_service_6",
+        "government_branch_2_service_7",
+        "government_branch_2_service_8",
+        "government_branch_2_service_9",
+        "government_branch_2_service_10"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "government_branch_3_counter_1",
+      "name": "Counter 1 - Government Office Branch 3",
+      "branchId": "government_branch_3",
+      "serviceIds": [
+        "government_branch_3_service_1",
+        "government_branch_3_service_2",
+        "government_branch_3_service_3",
+        "government_branch_3_service_4",
+        "government_branch_3_service_5"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "government_branch_3_counter_2",
+      "name": "Counter 2 - Government Office Branch 3",
+      "branchId": "government_branch_3",
+      "serviceIds": [
+        "government_branch_3_service_6",
+        "government_branch_3_service_7",
+        "government_branch_3_service_8",
+        "government_branch_3_service_9",
+        "government_branch_3_service_10"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "government_branch_4_counter_1",
+      "name": "Counter 1 - Government Office Branch 4",
+      "branchId": "government_branch_4",
+      "serviceIds": [
+        "government_branch_4_service_1",
+        "government_branch_4_service_2",
+        "government_branch_4_service_3",
+        "government_branch_4_service_4",
+        "government_branch_4_service_5"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    },
+    {
+      "id": "government_branch_4_counter_2",
+      "name": "Counter 2 - Government Office Branch 4",
+      "branchId": "government_branch_4",
+      "serviceIds": [
+        "government_branch_4_service_6",
+        "government_branch_4_service_7",
+        "government_branch_4_service_8",
+        "government_branch_4_service_9",
+        "government_branch_4_service_10"
+      ],
+      "currentServingToken": null,
+      "status": "active"
+    }
+  ],
+  "admins": [
+    {
+      "id": "admin_1",
+      "name": "Ramesh Patel",
+      "branchId": "bank_branch_1",
+      "counterId": "bank_branch_1_counter_1",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_2",
+      "name": "Mahesh Desai",
+      "branchId": "bank_branch_1",
+      "counterId": "bank_branch_1_counter_2",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_3",
+      "name": "Bhavesh Shah",
+      "branchId": "bank_branch_2",
+      "counterId": "bank_branch_2_counter_1",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_4",
+      "name": "Jignesh Parmar",
+      "branchId": "bank_branch_2",
+      "counterId": "bank_branch_2_counter_2",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_5",
+      "name": "Ketan Mehta",
+      "branchId": "bank_branch_3",
+      "counterId": "bank_branch_3_counter_1",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_6",
+      "name": "Paresh Joshi",
+      "branchId": "bank_branch_3",
+      "counterId": "bank_branch_3_counter_2",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_7",
+      "name": "Nilesh Trivedi",
+      "branchId": "bank_branch_4",
+      "counterId": "bank_branch_4_counter_1",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_8",
+      "name": "Hitesh Modi",
+      "branchId": "bank_branch_4",
+      "counterId": "bank_branch_4_counter_2",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_9",
+      "name": "Prakash Chauhan",
+      "branchId": "hospital_branch_1",
+      "counterId": "hospital_branch_1_counter_1",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_10",
+      "name": "Vijay Solanki",
+      "branchId": "hospital_branch_1",
+      "counterId": "hospital_branch_1_counter_2",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_11",
+      "name": "Rajesh Vaghela",
+      "branchId": "hospital_branch_2",
+      "counterId": "hospital_branch_2_counter_1",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_12",
+      "name": "Mukesh Rana",
+      "branchId": "hospital_branch_2",
+      "counterId": "hospital_branch_2_counter_2",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_13",
+      "name": "Jayesh Pandya",
+      "branchId": "hospital_branch_3",
+      "counterId": "hospital_branch_3_counter_1",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_14",
+      "name": "Harshad Shukla",
+      "branchId": "hospital_branch_3",
+      "counterId": "hospital_branch_3_counter_2",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_15",
+      "name": "Dharmesh Parmar",
+      "branchId": "hospital_branch_4",
+      "counterId": "hospital_branch_4_counter_1",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_16",
+      "name": "Kishor Makwana",
+      "branchId": "hospital_branch_4",
+      "counterId": "hospital_branch_4_counter_2",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_17",
+      "name": "Sanjay Bhatt",
+      "branchId": "restaurant_branch_1",
+      "counterId": "restaurant_branch_1_counter_1",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_18",
+      "name": "Rohit Dave",
+      "branchId": "restaurant_branch_1",
+      "counterId": "restaurant_branch_1_counter_2",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_19",
+      "name": "Amit Panchal",
+      "branchId": "restaurant_branch_2",
+      "counterId": "restaurant_branch_2_counter_1",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_20",
+      "name": "Kalpesh Tandel",
+      "branchId": "restaurant_branch_2",
+      "counterId": "restaurant_branch_2_counter_2",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_21",
+      "name": "Dinesh Patel",
+      "branchId": "restaurant_branch_3",
+      "counterId": "restaurant_branch_3_counter_1",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_22",
+      "name": "Suresh Desai",
+      "branchId": "restaurant_branch_3",
+      "counterId": "restaurant_branch_3_counter_2",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_23",
+      "name": "Manoj Shah",
+      "branchId": "restaurant_branch_4",
+      "counterId": "restaurant_branch_4_counter_1",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_24",
+      "name": "Kamal Parmar",
+      "branchId": "restaurant_branch_4",
+      "counterId": "restaurant_branch_4_counter_2",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_25",
+      "name": "Alpesh Mehta",
+      "branchId": "salon_branch_1",
+      "counterId": "salon_branch_1_counter_1",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_26",
+      "name": "Hiren Joshi",
+      "branchId": "salon_branch_1",
+      "counterId": "salon_branch_1_counter_2",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_27",
+      "name": "Dipak Trivedi",
+      "branchId": "salon_branch_2",
+      "counterId": "salon_branch_2_counter_1",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_28",
+      "name": "Nirav Modi",
+      "branchId": "salon_branch_2",
+      "counterId": "salon_branch_2_counter_2",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_29",
+      "name": "Paresh Chauhan",
+      "branchId": "salon_branch_3",
+      "counterId": "salon_branch_3_counter_1",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_30",
+      "name": "Yogesh Solanki",
+      "branchId": "salon_branch_3",
+      "counterId": "salon_branch_3_counter_2",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_31",
+      "name": "Ajay Vaghela",
+      "branchId": "salon_branch_4",
+      "counterId": "salon_branch_4_counter_1",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_32",
+      "name": "Bhavin Rana",
+      "branchId": "salon_branch_4",
+      "counterId": "salon_branch_4_counter_2",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_33",
+      "name": "Chirag Pandya",
+      "branchId": "temple_branch_1",
+      "counterId": "temple_branch_1_counter_1",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_34",
+      "name": "Mahendra Shukla",
+      "branchId": "temple_branch_1",
+      "counterId": "temple_branch_1_counter_2",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_35",
+      "name": "Devang Parmar",
+      "branchId": "temple_branch_2",
+      "counterId": "temple_branch_2_counter_1",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_36",
+      "name": "Kishan Makwana",
+      "branchId": "temple_branch_2",
+      "counterId": "temple_branch_2_counter_2",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_37",
+      "name": "Sunil Bhatt",
+      "branchId": "temple_branch_3",
+      "counterId": "temple_branch_3_counter_1",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_38",
+      "name": "Rahul Dave",
+      "branchId": "temple_branch_3",
+      "counterId": "temple_branch_3_counter_2",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_39",
+      "name": "Kiran Panchal",
+      "branchId": "temple_branch_4",
+      "counterId": "temple_branch_4_counter_1",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_40",
+      "name": "Rohit Tandel",
+      "branchId": "temple_branch_4",
+      "counterId": "temple_branch_4_counter_2",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_41",
+      "name": "Jay Patel",
+      "branchId": "government_branch_1",
+      "counterId": "government_branch_1_counter_1",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_42",
+      "name": "Nitin Desai",
+      "branchId": "government_branch_1",
+      "counterId": "government_branch_1_counter_2",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_43",
+      "name": "Tejas Shah",
+      "branchId": "government_branch_2",
+      "counterId": "government_branch_2_counter_1",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_44",
+      "name": "Viral Parmar",
+      "branchId": "government_branch_2",
+      "counterId": "government_branch_2_counter_2",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_45",
+      "name": "Hardik Mehta",
+      "branchId": "government_branch_3",
+      "counterId": "government_branch_3_counter_1",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_46",
+      "name": "Jatin Joshi",
+      "branchId": "government_branch_3",
+      "counterId": "government_branch_3_counter_2",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_47",
+      "name": "Nilesh Chauhan",
+      "branchId": "government_branch_4",
+      "counterId": "government_branch_4_counter_1",
+      "role": "counter_admin"
+    },
+    {
+      "id": "admin_48",
+      "name": "Hitesh Solanki",
+      "branchId": "government_branch_4",
+      "counterId": "government_branch_4_counter_2",
+      "role": "counter_admin"
+    }
+  ],
+  "queues": [
+    {
+      "id": "bank_branch_1_counter_1",
+      "counterId": "bank_branch_1_counter_1",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "bank_branch_1_counter_2",
+      "counterId": "bank_branch_1_counter_2",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "bank_branch_2_counter_1",
+      "counterId": "bank_branch_2_counter_1",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "bank_branch_2_counter_2",
+      "counterId": "bank_branch_2_counter_2",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "bank_branch_3_counter_1",
+      "counterId": "bank_branch_3_counter_1",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "bank_branch_3_counter_2",
+      "counterId": "bank_branch_3_counter_2",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "bank_branch_4_counter_1",
+      "counterId": "bank_branch_4_counter_1",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "bank_branch_4_counter_2",
+      "counterId": "bank_branch_4_counter_2",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "hospital_branch_1_counter_1",
+      "counterId": "hospital_branch_1_counter_1",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "hospital_branch_1_counter_2",
+      "counterId": "hospital_branch_1_counter_2",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "hospital_branch_2_counter_1",
+      "counterId": "hospital_branch_2_counter_1",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "hospital_branch_2_counter_2",
+      "counterId": "hospital_branch_2_counter_2",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "hospital_branch_3_counter_1",
+      "counterId": "hospital_branch_3_counter_1",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "hospital_branch_3_counter_2",
+      "counterId": "hospital_branch_3_counter_2",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "hospital_branch_4_counter_1",
+      "counterId": "hospital_branch_4_counter_1",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "hospital_branch_4_counter_2",
+      "counterId": "hospital_branch_4_counter_2",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "restaurant_branch_1_counter_1",
+      "counterId": "restaurant_branch_1_counter_1",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "restaurant_branch_1_counter_2",
+      "counterId": "restaurant_branch_1_counter_2",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "restaurant_branch_2_counter_1",
+      "counterId": "restaurant_branch_2_counter_1",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "restaurant_branch_2_counter_2",
+      "counterId": "restaurant_branch_2_counter_2",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "restaurant_branch_3_counter_1",
+      "counterId": "restaurant_branch_3_counter_1",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "restaurant_branch_3_counter_2",
+      "counterId": "restaurant_branch_3_counter_2",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "restaurant_branch_4_counter_1",
+      "counterId": "restaurant_branch_4_counter_1",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "restaurant_branch_4_counter_2",
+      "counterId": "restaurant_branch_4_counter_2",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "salon_branch_1_counter_1",
+      "counterId": "salon_branch_1_counter_1",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "salon_branch_1_counter_2",
+      "counterId": "salon_branch_1_counter_2",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "salon_branch_2_counter_1",
+      "counterId": "salon_branch_2_counter_1",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "salon_branch_2_counter_2",
+      "counterId": "salon_branch_2_counter_2",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "salon_branch_3_counter_1",
+      "counterId": "salon_branch_3_counter_1",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "salon_branch_3_counter_2",
+      "counterId": "salon_branch_3_counter_2",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "salon_branch_4_counter_1",
+      "counterId": "salon_branch_4_counter_1",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "salon_branch_4_counter_2",
+      "counterId": "salon_branch_4_counter_2",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "temple_branch_1_counter_1",
+      "counterId": "temple_branch_1_counter_1",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "temple_branch_1_counter_2",
+      "counterId": "temple_branch_1_counter_2",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "temple_branch_2_counter_1",
+      "counterId": "temple_branch_2_counter_1",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "temple_branch_2_counter_2",
+      "counterId": "temple_branch_2_counter_2",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "temple_branch_3_counter_1",
+      "counterId": "temple_branch_3_counter_1",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "temple_branch_3_counter_2",
+      "counterId": "temple_branch_3_counter_2",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "temple_branch_4_counter_1",
+      "counterId": "temple_branch_4_counter_1",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "temple_branch_4_counter_2",
+      "counterId": "temple_branch_4_counter_2",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "government_branch_1_counter_1",
+      "counterId": "government_branch_1_counter_1",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "government_branch_1_counter_2",
+      "counterId": "government_branch_1_counter_2",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "government_branch_2_counter_1",
+      "counterId": "government_branch_2_counter_1",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "government_branch_2_counter_2",
+      "counterId": "government_branch_2_counter_2",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "government_branch_3_counter_1",
+      "counterId": "government_branch_3_counter_1",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "government_branch_3_counter_2",
+      "counterId": "government_branch_3_counter_2",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "government_branch_4_counter_1",
+      "counterId": "government_branch_4_counter_1",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    },
+    {
+      "id": "government_branch_4_counter_2",
+      "counterId": "government_branch_4_counter_2",
+      "currentToken": null,
+      "waitList": [],
+      "updatedAt": "SERVER_TIMESTAMP"
+    }
+  ]
+}

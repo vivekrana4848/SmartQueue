@@ -1,0 +1,37 @@
+﻿Analyzing smartqueue_admin...                                   
+
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\screens\admin\admin_management_screen.dart:95:21 - deprecated_member_use
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\screens\admin\admin_management_screen.dart:122:27 - deprecated_member_use
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\screens\admin\admin_management_screen.dart:335:17 - deprecated_member_use
+   info - Statements in an if should be enclosed in a block - lib\screens\branch\branch_management_screen.dart:188:35 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\screens\branch\branch_management_screen.dart:189:20 - curly_braces_in_flow_control_structures
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\screens\branch\branch_management_screen.dart:263:19 - deprecated_member_use
+   info - Statements in an if should be enclosed in a block - lib\screens\counter\counter_management_screen.dart:174:36 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\screens\counter\counter_management_screen.dart:175:20 - curly_braces_in_flow_control_structures
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\screens\counter\counter_management_screen.dart:251:19 - deprecated_member_use
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\screens\counter\service_assignment_screen.dart:112:31 - deprecated_member_use
+   info - Statements in an if should be enclosed in a block - lib\screens\sector\sector_management_screen.dart:94:35 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\screens\sector\sector_management_screen.dart:95:20 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\screens\service\service_management_screen.dart:96:36 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\screens\service\service_management_screen.dart:97:20 - curly_braces_in_flow_control_structures
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\screens\service\service_management_screen.dart:169:13 - deprecated_member_use
+
+flutter : 15 issues 
+found. (ran in 3.8s)
+At line:1 char:1
++ flutter analyze 2>&1 
+| Tee-Object -FilePath 
+"c:\Users\Admin\.gemini
+\a ...
++ ~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (15 issues fou   
+ nd. (ran in 3.8s):    
+String) [], Remote    
+Exception
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
+

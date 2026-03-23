@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "900415944846",
+    "firebase_url": "https://smartparking-c2bdf-default-rtdb.firebaseio.com",
+    "project_id": "smartparking-c2bdf",
+    "storage_bucket": "smartparking-c2bdf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900415944846:android:a71805b1cfa1112a9231df",
+        "android_client_info": {
+          "package_name": "com.example.vivek27"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900415944846-k08j0n2jb1f3rlufab3f6sa6bv2hojpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_f582p7WMW-F5W0RCdimtrM8PvY9ZLfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900415944846-k08j0n2jb1f3rlufab3f6sa6bv2hojpm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "900415944846-vjpbjrmbihh9nhc78pc612ld6h5spj7c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartqueue.smartqueueUser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900415944846:android:522f0e2692c431b29231df",
+        "android_client_info": {
+          "package_name": "com.smartqueue.smartqueue_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900415944846-k08j0n2jb1f3rlufab3f6sa6bv2hojpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_f582p7WMW-F5W0RCdimtrM8PvY9ZLfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900415944846-k08j0n2jb1f3rlufab3f6sa6bv2hojpm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "900415944846-vjpbjrmbihh9nhc78pc612ld6h5spj7c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartqueue.smartqueueUser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900415944846:android:5e412814948108bc9231df",
+        "android_client_info": {
+          "package_name": "com.smartqueue.smartqueue_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900415944846-k08j0n2jb1f3rlufab3f6sa6bv2hojpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_f582p7WMW-F5W0RCdimtrM8PvY9ZLfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900415944846-k08j0n2jb1f3rlufab3f6sa6bv2hojpm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "900415944846-vjpbjrmbihh9nhc78pc612ld6h5spj7c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartqueue.smartqueueUser"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,37 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "smartparking-c2bdf",
+          "appId": "1:900415944846:android:522f0e2692c431b29231df",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "smartparking-c2bdf",
+          "configurations": {
+            "android": "1:900415944846:android:522f0e2692c431b29231df",
+            "ios": "1:900415944846:ios:fc016468e80196e19231df",
+            "web": "1:900415944846:web:59c1868badb2ce309231df"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
